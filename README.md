@@ -1,6 +1,6 @@
 ### Olá! Eu sou Inaldo Junior
 
-- 🌱 I’m currently learning SQL, PHP and OTHERS...
+- 🌱 I’m currently learning JavaScript, React, SQL, PHP and OTHERS...
 - 📫 How to reach me: https://www.linkedin.com/in/inaldo-junior-745315219/
 - 😄 Pronouns: ele/dele
 
